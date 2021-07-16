@@ -1,5 +1,5 @@
 ### Hello World 👋
-I am a fullstack Web Developer from Tanzania
+I am a Fullstack Web Developer from Tanzania
 - 🔭 Working on multiple frontend and backend project using React and Nodejs
 - 🌱 Learning design patterns in depth
 <br>
