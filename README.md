@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a Fullstack Web Developer from Tanzania
-- 🔭 Working on multiple frontend and backend project using React and Nodejs
+- 🔭 Working on multiple frontend and backend project using Angular and Spring Boot
 - 🌱 Learning design patterns in depth
 <br>
 
